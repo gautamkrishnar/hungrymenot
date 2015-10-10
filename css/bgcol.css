@@ -1,0 +1,214 @@
+.accent-background-overlay {
+	background-color: #223F51;
+}
+
+/* BOOTSTRAP PRIMARY COLOR */
+a {
+	color: #223F51;
+}
+a:focus, a:hover {
+	color: #2f6c5e;
+}
+.text-primary {
+	color: #223F51;
+}
+a.text-primary:hover {
+	color: #2f6c5e;
+}
+.bg-primary {
+	background-color: #223F51;
+}
+a.bg-primary:hover {
+	background-color: #2f6c5e;
+}
+.btn-primary {
+	background-color: #223F51;
+	border-color: #2f6c5e;
+}
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary.focus,
+.btn-primary:active,
+.btn-primary.active,
+.open > .dropdown-toggle.btn-primary {
+	background-color: #1375b3;
+	border-color: #005b99;
+}
+.btn-primary.disabled,
+.btn-primary[disabled],
+fieldset[disabled] .btn-primary,
+.btn-primary.disabled:hover,
+.btn-primary[disabled]:hover,
+fieldset[disabled] .btn-primary:hover,
+.btn-primary.disabled:focus,
+.btn-primary[disabled]:focus,
+fieldset[disabled] .btn-primary:focus,
+.btn-primary.disabled.focus,
+.btn-primary[disabled].focus,
+fieldset[disabled] .btn-primary.focus,
+.btn-primary.disabled:active,
+.btn-primary[disabled]:active,
+fieldset[disabled] .btn-primary:active,
+.btn-primary.disabled.active,
+.btn-primary[disabled].active,
+fieldset[disabled] .btn-primary.active {
+	background-color: #223F51;
+}
+.btn-primary .badge {
+	color: #223F51;
+}
+.btn-link {
+	color: #223F51;
+}
+.btn-link:hover,
+.btn-link:focus {
+	color: #2f6c5e;
+}
+.dropdown-menu > .active > a,
+.dropdown-menu > .active > a:hover,
+.dropdown-menu > .active > a:focus {
+	background-color: #223F51;
+}
+.nav .open > a,
+.nav .open > a:hover,
+.nav .open > a:focus {
+	border-color: #223F51;
+}
+.nav-pills > li.active > a,
+.nav-pills > li.active > a:hover,
+.nav-pills > li.active > a:focus {
+	background-color: #223F51;
+}
+.pagination > li > a,
+.pagination > li > span {
+	color: #223F51;
+}
+.pagination > li > a:hover,
+.pagination > li > span:hover,
+.pagination > li > a:focus,
+.pagination > li > span:focus {
+	color: #2f6c5e;
+}
+.pagination > .active > a,
+.pagination > .active > span,
+.pagination > .active > a:hover,
+.pagination > .active > span:hover,
+.pagination > .active > a:focus,
+.pagination > .active > span:focus {
+	background-color: #223F51;
+	border-color: #223F51;
+}
+.label-primary {
+	background-color: #2f6c5e;
+}
+.label-primary[href]:hover,
+.label-primary[href]:focus {
+	background-color: #223F51;
+}
+a.list-group-item.active > .badge,
+.nav-pills > .active > a > .badge {
+	color: #223F51;
+}
+a.thumbnail:hover,
+a.thumbnail:focus,
+a.thumbnail.active {
+	border-color: #223F51;
+}
+.progress-bar {
+	background-color: #223F51;
+}
+.list-group-item.active,
+.list-group-item.active:hover,
+.list-group-item.active:focus {
+	background-color: #223F51;
+	border-color: #223F51;
+}
+.panel-primary {
+	border-color: #223F51;
+}
+.panel-primary > .panel-heading {
+	background-color: #223F51;
+	border-color: #223F51;
+}
+.panel-primary > .panel-heading + .panel-collapse > .panel-body {
+	border-top-color: #223F51;
+}
+.panel-primary > .panel-heading .badge {
+	color: #223F51;
+}
+.panel-primary > .panel-footer + .panel-collapse > .panel-body {
+	border-bottom-color: #223F51;
+}
+
+/**
+ * ========================================
+ * HEADINGS
+ * ========================================
+ */
+
+.section-heading:after {
+	background-color: #223F51;
+}
+
+/**
+ * ========================================
+ * LIST
+ * ========================================
+ */
+
+.features-icon-list-item:hover i {
+	background-color: #223F51;
+}
+.list-with-icons li > i[class*="icon-"],
+.list-with-icons li > i[class*="fa-"] {
+	color: #223F51;
+}
+
+/**
+ * ========================================
+ * HEADER SECTION
+ * ========================================
+ */
+
+.navbar-default .navbar-nav > li > a:focus,
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li.current > a {
+	color: #223F51;
+}
+
+/**
+ * ========================================
+ * PRICING SECTION
+ * ========================================
+ */
+
+.pricing-package-items li > i.fa-check {
+	color: #223F51;
+}
+.pricing-table li:nth-child(1) .pricing-package-strip {
+	background-color: #223F51;
+}
+.pricing-table li:nth-child(2) .pricing-package-strip {
+	background-color: #0668a6;
+}
+.pricing-table li:nth-child(3) .pricing-package-strip {
+	background-color: #004280;
+}
+
+/**
+ * ========================================
+ * FOOTER SECTION
+ * ========================================
+ */
+
+.social-media-links li a:focus, .social-media-links li a:hover {
+	background-color: #223F51;
+}
+
+/**
+ * JPRELOADER
+ */
+
+#jpreBar {
+	background-color: #223F51;
+}

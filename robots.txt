@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow:
+Disallow: /.quarantine
+Disallow: /feedback
+Disallow: /.tmb
